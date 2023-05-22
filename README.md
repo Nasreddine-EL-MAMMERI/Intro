@@ -1,4 +1,4 @@
-- 👋 Hi,  @Nasreddine EL MAMMERI, Here..! 👋😄
+- 👋 Hi,  Nasreddine EL MAMMERI, Here..! 👋😄
 - 👀 I’m interested in Data Science / Deep learning / Machine Learning ✎
 - 🌱 I’m currently learning Python/Tensorflow/Keras/OpenCV/Computer VIsion  💬
 - 💞️ I’m looking contribute & collaborate with Github - Open Source Projects 📫
